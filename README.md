@@ -7,4 +7,4 @@
 
 Persistent storage can be implemented and concurrency/multithreading features such as async/await & TPL library can be used instead of in-memory objects
 
-Retry & Backoff mechanism demonstrates a simple way of mocking database failure.
+Retry & Backoff mechanism demonstrates a simple way of mocking database failure. Polly library can be used to handle transient faults
